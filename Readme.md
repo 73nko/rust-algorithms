@@ -88,14 +88,14 @@ RESTART BUILD
 
 ## [Search Algorithms](./src/searching)
 
-- [ ] [Linear](./src/searching/linear_search.rs)
+- [X] [Linear](./src/searching/linear_search.rs)
 - [ ] [Binary](./src/searching/binary_search.rs)
 - [ ] [Recursive Binary](./src/searching/binary_search_recursive.rs)
 - [ ] [Kth Smallest](./src/searching/kth_smallest.rs)
 
 ## [Geometry](./src/geometry)
 
-- [ ] [Closest pair of 2D points](./src/geometry/closest_points.rs)
+- [X] [Closest pair of 2D points](./src/geometry/closest_points.rs)
 
 ## [Ciphers](./src/ciphers)
 
