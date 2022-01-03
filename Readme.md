@@ -75,7 +75,7 @@ RESTART BUILD
 - [ ] [Knuth Morris Pratt](./src/string/knuth_morris_pratt.rs)
 - [ ] [Manacher](./src/string/manacher.rs)
 - [ ] [Rabin Carp](./src/string/rabin_karp.rs)
-- [ ] [Reverse](./src/string/reverse.rs)
+- [X] [Reverse](./src/string/reverse.rs)
 
 ## [General](./src/general)
 
@@ -103,8 +103,8 @@ RESTART BUILD
 - [ ] [Vigenère](./src/ciphers/vigenere.rs)
 - [ ] [Morse Code](./src/ciphers/morse_code.rs)
 - [ ] [XOR](./src/ciphers/xor.rs)
-- Rot13
-  - [ ] [Rot13](./src/ciphers/rot13.rs)
-  - [ ] [Another Rot13](./src/ciphers/another_rot13.rs)
+- [ ] Rot13
+- [ ] [Rot13](./src/ciphers/rot13.rs)
+- [ ] [Another Rot13](./src/ciphers/another_rot13.rs)
 - [ ] [Transposition](./src/ciphers/transposition.rs)
 - [ ] [SHA-2](./src/ciphers/sha256.rs)
